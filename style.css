@@ -1,5 +1,23 @@
+<<<<<<< HEAD
 body{
     font-family: sans-serif;
     background-color: lightgray;
     margin: 0%;
+=======
+body {
+  font-family: sans-serif;
+  background-color: lightgray;
+}
+.container {
+  max-width: 1000px;
+  background-color: white;
+  text-align: center;
+  margin: none;
+  margin-left: 400px;
+}
+ul {
+  position: center;
+  background-color: white;
+  text-align: center;
+>>>>>>> b8f13af5625cc520ba096b095241fce641425c31
 }
